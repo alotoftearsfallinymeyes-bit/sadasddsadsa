@@ -56,10 +56,10 @@ def scrobble_batch(batch, start_number, max_retries=3):
 
 
 canciones = [
-      {"artist": "Cash Guapo", "track": "Otro Stack", "album": "Otro Stack"},
-      {"artist": "Cash Guapo", "track": "Otro Stack", "album": "Otro Stack"},
-      {"artist": "Cash Guapo", "track": "Otro Stack", "album": "Otro Stack"},
-      {"artist": "Cash Guapo", "track": "Otro Stack", "album": "Otro Stack"},
+      {"artist": "Cash Guapo", "track": "Ya No Queda Opcion", "album": "Ya No Queda Opcion"},
+      {"artist": "Cash Guapo", "track": "Ya No Queda Opcion", "album": "Ya No Queda Opcion"},
+      {"artist": "Cash Guapo", "track": "Ya No Queda Opcion", "album": "Ya No Queda Opcion"},
+      {"artist": "Cash Guapo", "track": "Ya No Queda Opcion", "album": "Ya No Queda Opcion"},
 
 ]
 
