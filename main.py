@@ -2,6 +2,7 @@ import subprocess
 import time
 
 scripts = [
+  "major.py",
                     "2cool.py",
                     "fuckzaza.py",
                   "aeter.py",
